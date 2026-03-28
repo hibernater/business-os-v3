@@ -11,7 +11,7 @@
 
 ## In Progress
 
-- none
+- 002-product-definition — 当前任务已就绪，等待按照 harness 启动语执行
 
 ## Completion Rule
 

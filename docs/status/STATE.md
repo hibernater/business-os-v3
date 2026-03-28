@@ -4,10 +4,10 @@
 execution
 
 ## Current Task
-001-product-definition
+002-product-definition
 
 ## Last Completed Task
-harness-foundation
+001-harness-foundation
 
 ## Blockers
 none
