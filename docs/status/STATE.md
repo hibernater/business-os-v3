@@ -4,7 +4,7 @@
 execution
 
 ## Current Task
-002-product-definition
+001-product-definition
 
 ## Last Completed Task
 001-harness-foundation
